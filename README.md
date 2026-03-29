@@ -16,7 +16,7 @@ Skill for Codex that enforces project-specific Linear workflow rules from `LINEA
 ## Quick install
 
 ```bash
-git clone --depth=1 https://github.com/<you>/linear-mcp-tracker-skill.git ~/.codex/skills/linear-mcp-tracker && rm -rf ~/.codex/skills/linear-mcp-tracker/.git
+git clone --depth=1 https://github.com/EgorYolkin/linear-mcp-tracker-skill.git ~/.codex/skills/linear-mcp-tracker && rm -rf ~/.codex/skills/linear-mcp-tracker/.git
 ```
 
 ## Update installed skill
