@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: Linear MCP Tracker
+  short_description: Sync coding work with Linear using LINEAR_MCP.md rules
+  default_prompt: Follow LINEAR_MCP.md in this project and keep Linear issue state/comments in sync while implementing the task.
